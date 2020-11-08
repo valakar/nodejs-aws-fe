@@ -23,10 +23,6 @@ $ npm run cloudfront:update:build:deploy:nc
 ```
 
 ### Deployed applications
-[ManualS3](http://manual-app.s3-website-eu-west-1.amazonaws.com/) - 403 Forbidden
+[AppS3](http://vstore-app-bucket.s3-website-eu-west-1.amazonaws.com/)
 
-[ManualCloudFront](https://d1q5jypx9n3jx9.cloudfront.net/)
-
-[AutoS3](http://automative-app.s3-website-us-east-1.amazonaws.com/) - 403 Forbidden
-
-[AutoCloudFront](https://d232a2m5r21slj.cloudfront.net/)
+[AppCloudFront](https://d1jpnfaozgam1v.cloudfront.net)
