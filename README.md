@@ -28,4 +28,4 @@ $ npm run cloudfront:update:build:deploy:nc
 
 
 ## Task 4
-Please go to [Admin/Products](http://localhost:3000/admin/products) to check if everything working
+Please go to [Admin/Products](https://d1jpnfaozgam1v.cloudfront.net/admin/products) to check if everything working
